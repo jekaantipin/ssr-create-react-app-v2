@@ -4,7 +4,7 @@ import { bindActionCreators } from 'redux'
 
 import * as userActions from '../actions/user'
 import { Link } from 'react-router-dom'
-import './SecondPage.css'
+import './SecondPage.scss'
 
 class SecondPage extends Component {
   render() {
